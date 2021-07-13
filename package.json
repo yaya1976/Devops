@@ -1,0 +1,22 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "Learning Devops",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaya1976/Devops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaya1976/Devops/issues"
+  },
+  "homepage": "https://github.com/yaya1976/Devops#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
